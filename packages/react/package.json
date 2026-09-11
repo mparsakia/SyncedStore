@@ -36,7 +36,8 @@
     "@reactivedata/react": "^0.2.1"
   },
   "peerDependencies": {
-    "@syncedstore/core": "*"
+    "@syncedstore/core": "*",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@syncedstore/core": "^0.6.0",
